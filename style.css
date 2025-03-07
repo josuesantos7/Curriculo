@@ -107,13 +107,14 @@
 
 #formacoes {
     width: 100vw;
-    height: 50vh;
+    height: 70vh;
     padding: 4em;
 }
 
 #formacoes ol {
     display: flex;
-    padding-top: 2em;
+    padding-top: 1em;
+    padding-bottom: 20px;
 }
   
 #formacoes li {
